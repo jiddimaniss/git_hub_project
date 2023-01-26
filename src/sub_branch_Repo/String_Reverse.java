@@ -16,7 +16,7 @@ public class String_Reverse {
 		
 		System.out.println(city1);
 		
-		
+		System.out.println(city);
 		
 	}
 
